@@ -1,0 +1,40 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*.so
+
+# Virtual environment
+.venv/
+
+# Environment variables
+.env
+
+# Firebase service account
+firebase-service-account.json
+
+# VS Code settings
+.vscode/
+
+# Pytest cache
+.pytest_cache/
+
+# MyPy
+.mypy_cache/
+
+# Coverage reports
+htmlcov/
+.coverage
+
+# Logs
+*.log
+
+# MacOS system files
+.DS_Store
+
+# Python egg and build
+*.egg-info/
+build/
+dist/
+
+# Uvicorn reload artifacts
+*.pid
