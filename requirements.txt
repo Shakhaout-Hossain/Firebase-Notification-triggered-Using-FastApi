@@ -5,3 +5,4 @@ httpx
 pydantic
 pydantic-settings
 firebase-admin
+gunicorn
