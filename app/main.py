@@ -6,7 +6,7 @@ app = FastAPI(title="Firebase FCM FastAPI")
 # Add CORS Middleware
 app.add_middleware(
     CORSMiddleware,
-    allow_origins=["*"],  # Change "*" to a list of allowed domains in production
+    allow_origins=["*"], 
     allow_credentials=True,
     allow_methods=["*"],
     allow_headers=["*"],
