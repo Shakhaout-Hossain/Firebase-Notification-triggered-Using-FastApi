@@ -38,3 +38,4 @@ dist/
 
 # Uvicorn reload artifacts
 *.pid
+.idea/
